@@ -1,0 +1,15 @@
+/home/saint/Desktop/sandboxTool/bin/Debug/net6.0/sandboxTool
+/home/saint/Desktop/sandboxTool/bin/Debug/net6.0/sandboxTool.deps.json
+/home/saint/Desktop/sandboxTool/bin/Debug/net6.0/sandboxTool.runtimeconfig.json
+/home/saint/Desktop/sandboxTool/bin/Debug/net6.0/sandboxTool.dll
+/home/saint/Desktop/sandboxTool/bin/Debug/net6.0/sandboxTool.pdb
+/home/saint/Desktop/sandboxTool/obj/Debug/net6.0/sandboxTool.csproj.AssemblyReference.cache
+/home/saint/Desktop/sandboxTool/obj/Debug/net6.0/sandboxTool.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/sandboxTool/obj/Debug/net6.0/sandboxTool.AssemblyInfoInputs.cache
+/home/saint/Desktop/sandboxTool/obj/Debug/net6.0/sandboxTool.AssemblyInfo.cs
+/home/saint/Desktop/sandboxTool/obj/Debug/net6.0/sandboxTool.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/sandboxTool/obj/Debug/net6.0/sandboxTool.dll
+/home/saint/Desktop/sandboxTool/obj/Debug/net6.0/refint/sandboxTool.dll
+/home/saint/Desktop/sandboxTool/obj/Debug/net6.0/sandboxTool.pdb
+/home/saint/Desktop/sandboxTool/obj/Debug/net6.0/sandboxTool.genruntimeconfig.cache
+/home/saint/Desktop/sandboxTool/obj/Debug/net6.0/ref/sandboxTool.dll
